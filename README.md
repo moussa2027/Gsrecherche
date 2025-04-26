@@ -29,7 +29,7 @@
 
 <body>
   <header>
-    <h1>[Nom de l'Établissement]</h1>
+    <h1>[Groupe scolaire la recherche]</h1>
     <p>Accompagner chaque élève de la maternelle au secondaire vers l'excellence.</p>
   </header>
 
@@ -43,13 +43,13 @@
   </nav>
 
   <section id="accueil">
-    <h2>Bienvenue à [Nom de l'Établissement]</h2>
+    <h2>Bienvenue à [Groupe scolaire la recherche(GSR)]</h2>
     <p>Notre mission : transmettre des savoirs, éveiller des talents et accompagner les citoyens de demain.</p>
   </section>
 
-  <section id="etablissement">
+  <section id="Groupe scolaire la recherche">
     <h2>Notre Établissement</h2>
-    <p>Fondé en [Année], [Nom de l'Établissement] accueille les enfants du préscolaire au secondaire, dans un cadre éducatif stimulant et bienveillant.</p>
+    <p>Fondé en [2017], [Groupe scolaire La recherche] accueille les enfants du préscolaire au secondaire, dans un cadre éducatif stimulant et bienveillant.</p>
     <h3>Nos valeurs</h3>
     <ul>
       <li>Respect et bienveillance</li>
@@ -79,7 +79,7 @@
     <p>Suivez nos sorties scolaires, projets et événements !</p>
   </section>
 
-  <section id="contact">
+  <section id="77 669 98 93/268 38 97">
     <h2>Contact</h2>
     <p><strong>Adresse :</strong> [Adresse complète]</p>
     <p><strong>Téléphone :</strong> [Numéro de téléphone]</p>
@@ -88,15 +88,15 @@
 
   <section id="mentions">
     <h2>Mentions Légales</h2>
-    <p><strong>Éditeur :</strong> [Nom de l'Établissement]</p>
-    <p><strong>Adresse :</strong> [Adresse complète]</p>
-    <p><strong>Directeur de la publication :</strong> [Nom du directeur]</p>
+    <p><strong>Éditeur :</strong> [Groupe scolaire la Recherche]</p>
+    <p><strong>Adresse :</strong> [Keur mbaye fall rue 10 villa n 305]</p>
+    <p><strong>Directeur de la publication :</strong> [Moussa Mbengue]</p>
     <p><strong>Hébergeur :</strong> GitHub Pages</p>
     <p><strong>Propriété intellectuelle :</strong> Contenus protégés, toute reproduction interdite sans autorisation.</p>
   </section>
 
   <footer>
-    <p>&copy; 2025 [Nom de l'Établissement]. Tous droits réservés.</p>
+    <p>&copy; 2025 [Groupe scolaire la Recherche]. Tous droits réservés.</p>
   </footer>
 
   <div id="cookie-banner">
